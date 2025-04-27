@@ -1,2 +1,2 @@
 # sNET
-The sNET protocol is a way of broadcasting cross-project in Scratch without cloud variables.
+[Logo](https://raw.githubusercontent.com/SeafoodStudios/sNET/refs/heads/main/res/Logo.svg)
